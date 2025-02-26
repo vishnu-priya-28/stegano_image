@@ -1,1 +1,5 @@
-# stegano_image
+import libraries
+AES encryption
+input image
+passcode
+Decrypt message
